@@ -1,4 +1,4 @@
-const fs = require('fs')
+import fs from 'fs';
 
 class LocalDB {
     constructor(dbPath) {
@@ -110,4 +110,4 @@ class LocalDB {
     }
 }
 
-module.exports = LocalDB
+export default LocalDB
