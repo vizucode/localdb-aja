@@ -1,12 +1,12 @@
 {
   "name": "localdb-aja",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "main": "index.js",
+  "module": "index.mjs",
   "license": "MIT",
   "author": {
     "email": "havisikkubaru@gmail.com",
     "name": "vizucode",
     "url": "https://github.com/vizucode"
-  },
-  "type": "module"
+  }
 }
