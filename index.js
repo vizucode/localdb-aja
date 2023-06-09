@@ -110,4 +110,4 @@ class LocalDB {
     }
 }
 
-export default LocalDB
+module.exports = LocalDB
