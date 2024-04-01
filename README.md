@@ -1,6 +1,6 @@
 # Localdb-aja
 
-Localdb-aja is framework to make easier store, update, delete, find data to local file / localstorage.
+Localdb-aja is framework to make easier store, update, delete, find data to local file system.
 
 ## Installation
 
